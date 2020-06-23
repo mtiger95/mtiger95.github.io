@@ -1194,7 +1194,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a6a4bf;
+  background: #98ffc3;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2615,7 +2615,7 @@ iframe {
   display: inline-block;
   vertical-align: middle;
 }
-.post {
+.content.index {
   margin-top: 40px;
   margin-bottom: 40px;
   padding: 20px;
