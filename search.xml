@@ -3,7 +3,8 @@
   <entry>
     <title>创建技术博客</title>
     <url>/2020/06/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p><img src="https://ssyerv1.oss-cn-hangzhou.aliyuncs.com/picture/e2f1e46c90c04d3dab8ad443fc17966a.jpg!sswm" alt="WEB前端开发" title="WEB前端开发"></p>
+    <content><![CDATA[<p><img data-src="https://ssyerv1.oss-cn-hangzhou.aliyuncs.com/picture/e2f1e46c90c04d3dab8ad443fc17966a.jpg!sswm" alt="WEB前端开发" title="WEB前端开发"></p>
+<a id="more"></a>
 <hr>
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
 <p>   今天花了半天时间，终于把这个技术博客跑起来了，也遇到了一些小坑，不过多看看文档，查些资料都还是解决了。<a href="https://www.jianshu.com/p/9f0e90cc32c2" target="_blank" rel="noopener">这篇文章写的很不错</a>，官方文档讲的比较粗犷，我通过这篇文章设置了多主题，背景，外部链接等等，在此感谢作者。想过从零手写搭建，这样当然更能把这几年的所学所用，更加系统的串联起来。然而，我更清楚，自己创建博客的初衷，是为了记录和分享日常工作中所想所悟所得的干货，那些更基础，更底层，更刨根问底的原理知识，一般都是看阮一峰、张鑫旭等等老师的文章，细腻易懂且不会像官方文档那般枯燥，于是，‘拿来主义’的想法便占了上风。博客运行起来后，我更是窃喜，自己选择是对的，不然，自己利用业余时间设计，搭建，怎么也得一个月不止了。</p>
