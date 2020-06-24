@@ -1189,7 +1189,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #f9e9bb;
+  background: #bf6fab;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1596,7 +1596,7 @@ pre .javascript .function {
 .reading-progress-bar {
   background: #37c6c0;
   display: block;
-  height: 5px;
+  height: 3px;
   left: 0;
   position: fixed;
   width: 0;
@@ -2053,22 +2053,6 @@ pre .javascript .function {
 }
 #qr p {
   text-align: center;
-}
-.posts-expand .post-title-link::before {
-  background: #fc6423;
-}
-.post-title a:hover {
-  color: #fc6423;
-}
-.post-body p a {
-  color: #0593d3;
-  border-bottom: none;
-  border-bottom: 1px solid #0593d3;
-}
-.post-body p a:hover {
-  color: #fc6423;
-  border-bottom: none;
-  border-bottom: 1px solid #fc6423;
 }
 .category-all-page .category-all-title {
   text-align: center;
@@ -2616,9 +2600,67 @@ iframe {
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
+.content.index .post-block .btn {
+  border-bottom: none;
+}
 .sidebar.sidebar-active {
   background-image: url("/images/sidebarbg.jpeg");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-origin: border-box;
+}
+.header {
+  background: rgba(111,111,111,0.1);
+}
+.menu .menu-item a {
+  padding: 2px 12px;
+  color: rgba(255,117,0,0.4);
+  font-size: 16px;
+}
+.menu .menu-item a:hover {
+  color: #fc6423;
+  background: none;
+}
+.menu-item-active a {
+  color: #fc6423 !important;
+  background: none;
+}
+.brand,
+.site-title {
+  color: #fc6423;
+}
+.logo-line-before,
+.logo-line-after {
+  width: 100%;
+}
+.logo-line-before i,
+.logo-line-after i {
+  background: #fc6423;
+}
+.main a {
+  color: #0593d3;
+  border-bottom: none;
+  border-bottom: 1px solid #0593d3;
+}
+.main a:hover {
+  color: #fc6423 !important;
+  border-bottom: none;
+  border-bottom: 1px solid #fc6423;
+}
+.posts-expand .post-title-link::before {
+  background: #fc6423;
+}
+.post-title a:hover {
+  color: #fc6423;
+  border-bottom: none;
+}
+.post-body p a {
+  color: #0593d3;
+  border-bottom: none;
+  border-bottom: 1px solid #0593d3;
+}
+.post-body p a:hover {
+  color: #fc6423;
+  border-bottom: none;
+  border-bottom: 1px solid #fc6423;
 }
