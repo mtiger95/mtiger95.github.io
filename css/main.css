@@ -1194,7 +1194,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #5e365d;
+  background: #8badab;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2621,4 +2621,10 @@ iframe {
   padding: 20px;
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
+}
+.sidebar.sidebar-active {
+  background-image: url("/images/sidebarbg.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-origin: border-box;
 }
