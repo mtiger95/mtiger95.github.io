@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>创建技术博客</title>
-    <url>/2020/06/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <url>/tiger95/2020/06/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<hr>
 <p><img src="https://ssyerv1.oss-cn-hangzhou.aliyuncs.com/picture/e2f1e46c90c04d3dab8ad443fc17966a.jpg!sswm" alt="WEB前端开发" title="WEB前端开发"></p>
 <hr>
@@ -55,7 +55,7 @@
   </entry>
   <entry>
     <title>ES6的class在实际项目中的运用</title>
-    <url>/2020/06/25/ES6%E7%9A%84class%E5%9C%A8%E5%AE%9E%E9%99%85%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84%E8%BF%90%E7%94%A8/</url>
+    <url>/tiger95/2020/06/25/ES6%E7%9A%84class%E5%9C%A8%E5%AE%9E%E9%99%85%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84%E8%BF%90%E7%94%A8/</url>
     <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><blockquote>
 <p>ES6的class 的基本语法，我感觉自己说不好，可参阅<a href="https://es6.ruanyifeng.com/#docs/class" target="_blank" rel="noopener">阮一峰老师的文章</a>，有详细讲解。</p>
 </blockquote>
@@ -97,7 +97,7 @@
   </entry>
   <entry>
     <title>手写一个Vue图片懒加载指令v-lazy</title>
-    <url>/2020/06/24/%E6%89%8B%E5%86%99%E4%B8%80%E4%B8%AAVue%E5%9B%BE%E7%89%87%E6%87%92%E5%8A%A0%E8%BD%BD%E6%8C%87%E4%BB%A4v-lazy/</url>
+    <url>/tiger95/2020/06/24/%E6%89%8B%E5%86%99%E4%B8%80%E4%B8%AAVue%E5%9B%BE%E7%89%87%E6%87%92%E5%8A%A0%E8%BD%BD%E6%8C%87%E4%BB%A4v-lazy/</url>
     <content><![CDATA[<h3 id="理解懒加载的目的和基本原理"><a href="#理解懒加载的目的和基本原理" class="headerlink" title="理解懒加载的目的和基本原理"></a>理解懒加载的目的和基本原理</h3><blockquote>
 <p><strong>目的：</strong> 不用在加载页面时一次性加载所有的图片，避免在同一时间请求大量的图片数据，造成页面空白卡顿，严重影响体验，同时也能节约服务器带宽资源。</p>
 </blockquote>
@@ -149,7 +149,7 @@
   </entry>
   <entry>
     <title>浅谈javascript中函数声明和函数表达式的区别</title>
-    <url>/2020/06/25/%E6%B5%85%E8%B0%88javascript%E4%B8%AD%E5%87%BD%E6%95%B0%E5%A3%B0%E6%98%8E%E5%92%8C%E5%87%BD%E6%95%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB/</url>
+    <url>/tiger95/2020/06/25/%E6%B5%85%E8%B0%88javascript%E4%B8%AD%E5%87%BD%E6%95%B0%E5%A3%B0%E6%98%8E%E5%92%8C%E5%87%BD%E6%95%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB/</url>
     <content><![CDATA[<h3 id="目的"><a href="#目的" class="headerlink" title="目的"></a>目的</h3><p>  理解函数声明和函数表达式的区别，这其中涉及到JS的变量提升等基础知识。</p>
 <hr>
 <p>  今天要说的这个技术点在实际工作中只要注意编码规范，就几乎不会遇到，但在面试中，通常面试官在为了考查某项JS基础知识点时，会出各种奇葩问题。<br>  在之前的某家公司，我也有当面试官而被吐槽的经历。。。某小哥给我们HR 小姐姐吐槽，哈哈。。。</p>
@@ -211,7 +211,7 @@ console.log(&quot;var&quot;);
   </entry>
   <entry>
     <title>前端通过Jenkins搭建自动化部署平台</title>
-    <url>/2020/06/24/%E5%89%8D%E7%AB%AF%E9%80%9A%E8%BF%87Jenkins%E6%90%AD%E5%BB%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2%E5%B9%B3%E5%8F%B0/</url>
+    <url>/tiger95/2020/06/24/%E5%89%8D%E7%AB%AF%E9%80%9A%E8%BF%87Jenkins%E6%90%AD%E5%BB%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2%E5%B9%B3%E5%8F%B0/</url>
     <content><![CDATA[<h4 id="一．-目的："><a href="#一．-目的：" class="headerlink" title="一． 目的："></a>一． 目的：</h4><ul>
 <li>自动化构建，发布前端代码至服务环境，告别手动操作带来的烦琐和时间上的浪费。提升开发效率，这里不吐槽有的公司用SVN 加 WinSCP。</li>
 </ul>
